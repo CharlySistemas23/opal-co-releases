@@ -1,8 +1,9 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: OpalCo-Setup-1.0.0.exe
-    sha512: blBDd3AkSW6senB0i876PlWgvAa8xPNyjnEgV0bx3l5M/n0VR2dXMF/QwrXW7khSr5GSlLAuAI7YGl5Y79WaEA==
-    size: 84020811
-path: OpalCo-Setup-1.0.0.exe
-sha512: blBDd3AkSW6senB0i876PlWgvAa8xPNyjnEgV0bx3l5M/n0VR2dXMF/QwrXW7khSr5GSlLAuAI7YGl5Y79WaEA==
-releaseDate: '2026-03-23T23:18:57.439Z'
+  - url: opal-app-v1.0.1-20260324-184916.zip
+    sha256: 8b05a54651406547aa2dbe9a8772b52ffa25ad2c937c15454ad736fb5e06e09b
+    size: 1347971
+path: https://raw.githubusercontent.com/CharlySistemas23/opal-co-releases/main/releases/windows/opal-app-v1.0.1-20260324-184916.zip
+sha256: 8b05a54651406547aa2dbe9a8772b52ffa25ad2c937c15454ad736fb5e06e09b
+releaseDate: '2026-03-25T00:49:25.000Z'
+releaseNotes: Actualización - Fixes de inventario, sync mejorado y estabilidad en Railway backend
