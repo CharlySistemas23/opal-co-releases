@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: OpalCo-Setup-1.0.0.exe
+    sha512: blBDd3AkSW6senB0i876PlWgvAa8xPNyjnEgV0bx3l5M/n0VR2dXMF/QwrXW7khSr5GSlLAuAI7YGl5Y79WaEA==
+    size: 84020811
+path: OpalCo-Setup-1.0.0.exe
+sha512: blBDd3AkSW6senB0i876PlWgvAa8xPNyjnEgV0bx3l5M/n0VR2dXMF/QwrXW7khSr5GSlLAuAI7YGl5Y79WaEA==
+releaseDate: '2026-03-23T23:18:57.439Z'
