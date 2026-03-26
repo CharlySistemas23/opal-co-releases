@@ -1,9 +1,0 @@
-version: 1.0.1
-files:
-  - url: OpalCo-Setup-1.0.1.exe
-    sha256: 7386EEEEF30F5AE9474438220611BF835FE3C5F2349423C3B2F03D05EFC649F5
-    size: 84021719
-path: OpalCo-Setup-1.0.1.exe
-sha256: 7386EEEEF30F5AE9474438220611BF835FE3C5F2349423C3B2F03D05EFC649F5
-releaseDate: '2026-03-25T01:05:00.000Z'
-releaseNotes: Actualización - Fixes de inventario, sync mejorado y estabilidad en Railway backend
